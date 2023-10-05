@@ -8,6 +8,9 @@
     box-sizing: border-box;
 }
 /* General styles */
+body {
+    background-color: #e2d6c8;
+}
 
 h1 {
     font-family: 'Cinzel', serif;
