@@ -35,13 +35,15 @@ header a {
 /* Footer */
 #footer-bar {
     text-align: center;
-    padding: 20px 0;
+    padding: 15px 0;
     display: flex;
-    align-items: flex-end;
     justify-content: space-evenly;
     list-style-type: none;
     background-color: #35291b;
     color: #e2d6c8;
     margin-top: auto;
     font-size: 80%;
+}
+#footer-bar i {
+    color: #e2d6c8;
 }
