@@ -14,3 +14,13 @@ h1 {
     color: #35291b;
     text-align: center;
 }
+
+/* Header */
+header {
+    background-color: #e2d6c8;
+}
+header a {
+    text-decoration: none;
+    
+
+}
