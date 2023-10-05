@@ -1,0 +1,16 @@
+/* Font import from Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto:ital,wght@0,100;0,300;0,400;1,500&display=swap');
+
+/* Asterisk wildcard selector to overide deafult styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* General styles */
+
+h1 {
+    font-family: 'Cinzel', serif;
+    color: #35291b;
+    text-align: center;
+}
