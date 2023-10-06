@@ -35,15 +35,32 @@ header a {
 /* Footer */
 #footer-bar {
     text-align: center;
-    padding: 15px 0;
-    display: flex;
-    justify-content: space-evenly;
+    padding: 10px 0;
     list-style-type: none;
     background-color: #35291b;
     color: #e2d6c8;
-    margin-top: auto;
     font-size: 80%;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
 }
+
 #footer-bar i {
     color: #e2d6c8;
+
+}
+
+.stack-top {
+    flex-direction: column;
+}
+
+.stack-bottom {
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer-bar-social {
+    margin: 5px;
 }
