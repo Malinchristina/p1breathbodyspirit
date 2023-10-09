@@ -16,6 +16,26 @@ body {
     font-family: 'Roboto', sans-serif;
 
 }
+/* Header */
+header {
+    background-color: #818A79;
+    padding: 0.5rem 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #545545;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+header a {
+    text-decoration: none;
+    font-family: 'Cinzel', serif;
+    color: #D8E1E7;
+    text-align: center;
+    width: 100%;
+    letter-spacing: 1px;
+}
 
 h1 {
     font-family: 'Cinzel', serif;
@@ -23,15 +43,6 @@ h1 {
     text-align: center;
 }
 
-/* Header */
-header {
-    background-color: #e2d6c8;
-}
-header a {
-    text-decoration: none;
-    
-
-}
 /* Footer */
 #footer-bar {
     text-align: center;
