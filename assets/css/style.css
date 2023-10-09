@@ -50,11 +50,6 @@ header a {
     border-bottom: 1px solid #545545;
 }
 
-h1 {
-    font-family: 'Cinzel', serif;
-    color: #D8E1E7;
-    text-align: center;
-}
 
 /* Nav bar styles with drop down toggle */
 nav {
@@ -88,8 +83,8 @@ nav {
     text-align: center;
     padding: 10px 0;
     list-style-type: none;
-    background-color: #35291b;
-    color: #e2d6c8;
+    background-color: #818A79;
+    color: #D8E1E7;
     font-size: 80%;
     position: fixed;
     bottom: 0;
@@ -98,8 +93,7 @@ nav {
 }
 
 #footer-bar i {
-    color: #e2d6c8;
-
+    color: #D8E1E7;
 }
 
 .stack-top {
@@ -109,7 +103,6 @@ nav {
 .stack-bottom {
     display: flex;
     justify-content: center;
-
 }
 
 .footer-bar-social {
