@@ -43,6 +43,33 @@ h1 {
     text-align: center;
 }
 
+/* Nav bar styles with drop down toggle */
+nav {
+    position: absolute;
+    background-color: #818A79;
+    color: #262713;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #545545;
+    display: none;
+    top: 100%;
+}
+
+/* Nav bar toggle */
+#nav-bar-toggle:checked~nav {
+    display: block;
+}
+
+#nav-bar-toggle {
+    display: none;
+}
+
+.nav-bar-toggle-label {
+    font-size: 2rem;
+    color: #D8E1E7;
+}
+
 /* Footer */
 #footer-bar {
     text-align: center;
