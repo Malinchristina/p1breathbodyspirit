@@ -81,7 +81,7 @@ nav {
 main {
     /* Make space so footer is pushed down */
     flex: 1 0 auto;
-    margin-top: 102px;
+    margin-top: 136px;
 }
 
 /* Footer */
