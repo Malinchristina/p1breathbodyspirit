@@ -110,4 +110,39 @@ main {
 
 .footer-bar-social {
     margin: 5px;
+    font-size: 120%;
+}
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    header a {
+        text-align: left;
+    }
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    .nav-bar-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 260%;
+        line-height: 60px;
+        margin: 0 0.5rem;
+    }
 }
