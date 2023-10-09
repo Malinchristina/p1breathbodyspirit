@@ -77,19 +77,22 @@ nav {
     font-size: 2rem;
     color: #D8E1E7;
 }
+/* Main content */
+main {
+    /* Make space so footer is pushed down */
+    flex: 1 0 auto;
+    margin-top: 102px;
+}
 
 /* Footer */
 #footer-bar {
     text-align: center;
-    padding: 10px 0;
+    padding: 15px 0;
     list-style-type: none;
     background-color: #818A79;
     color: #D8E1E7;
     font-size: 80%;
-    position: fixed;
-    bottom: 0;
     width: 100%;
-    left: 0;
 }
 
 #footer-bar i {
