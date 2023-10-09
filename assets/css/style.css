@@ -14,7 +14,10 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
-
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #A37850;
 }
 /* Header */
 header {
@@ -84,6 +87,18 @@ main {
     margin-top: 136px;
 }
 
+#home >h2 {
+    text-align: center;
+    margin: 0 5px 0 5px;
+    font-size: 130%;
+    
+}
+#home >p {
+    text-align: left;
+    padding: 20px;
+    font-size: 90%;
+}
+
 /* Footer */
 #footer-bar {
     text-align: center;
@@ -146,6 +161,7 @@ main {
         margin: 0 0.5rem;
     }
 }
+
 /* Media query: laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
