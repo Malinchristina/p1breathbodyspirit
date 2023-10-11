@@ -7,6 +7,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /* General styles */
 body {
     background-color: #ffffff;
@@ -90,14 +91,21 @@ main {
 #home >h2 {
     text-align: center;
     margin: 0 5px 0 5px;
-    font-size: 130%;
-    
+    font-size: 130%;    
 }
+#w3-image {
+    background: url(../images/w3.jpg) no-repeat center/cover;
+    width: auto;
+    height: 65vw;
+    margin: 1.2rem;
+}
+
 #home >p {
     text-align: left;
-    padding: 20px;
+    padding: 0 20px;
     font-size: 90%;
 }
+
 
 /* Footer */
 #footer-bar {
