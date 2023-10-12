@@ -20,6 +20,11 @@ h2 {
     font-family: 'Roboto', sans-serif;
     color: #A37850;
 }
+p {
+    text-align: left;
+    padding: 0 20px;
+    font-size: 90%;
+}
 /* Header */
 header {
     background-color: #818A79;
