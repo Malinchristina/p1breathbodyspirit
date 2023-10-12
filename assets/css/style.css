@@ -130,6 +130,9 @@ main {
 .stack-top {
     flex-direction: column;
 }
+.stack-top p {
+    text-align: center;
+}
 
 .stack-bottom {
     display: flex;
