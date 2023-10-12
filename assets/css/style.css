@@ -96,7 +96,7 @@ nav {
 main {
     /* Make space so footer is pushed down */
     flex: 1 0 auto;
-    margin-top: 136px;
+    margin-top: 102px;
 }
 
 #w3-image {
@@ -188,6 +188,9 @@ main {
         line-height: 60px;
         margin: 0 0.5rem;
     }
+    /* Main */
+    main {
+        margin-top: 136px;
 }
 
 /* Media query: laptops and desktops (992px and up) */
