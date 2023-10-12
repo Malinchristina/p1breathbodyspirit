@@ -16,10 +16,16 @@ body {
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
 }
+
 h2 {
     font-family: 'Roboto', sans-serif;
     color: #A37850;
+    text-align: center;
+    margin: 0 5px 0 5px;
+    font-size: 130%;
+    padding-top: 1rem;
 }
+
 p {
     text-align: left;
     padding: 0 20px;
@@ -93,11 +99,6 @@ main {
     margin-top: 136px;
 }
 
-#home >h2 {
-    text-align: center;
-    margin: 0 5px 0 5px;
-    font-size: 130%;    
-}
 #w3-image {
     background: url(../images/w3.jpg) no-repeat center/cover;
     width: auto;
