@@ -159,6 +159,10 @@ main {
 @media screen and (min-width: 768px) {
 
     /* Header */
+    #menu a:hover {
+            border-bottom: 1px solid #D8E1E7;
+    }
+    
     header a {
         text-align: left;
     }
