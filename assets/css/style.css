@@ -105,6 +105,10 @@ main {
     height: 65vw;
     margin: 1.2rem;
 }
+p > a {
+    color: #A37850;
+    border-bottom: #A37850;
+}
 .read-more-button {
     display: flex;
     justify-content: flex-end;
