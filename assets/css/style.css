@@ -195,6 +195,7 @@ main {
     /* Main */
     main {
         margin-top: 136px;
+    }    
 }
 
 /* Media query: laptops and desktops (992px and up) */
@@ -206,5 +207,4 @@ main {
     header a {
         text-align: left;
     }
-    
 }
