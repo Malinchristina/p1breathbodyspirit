@@ -155,14 +155,53 @@ p > a {
     padding: 0 20px;
     text-align: center;
     color: #A37850;
-
 }
 
 #last-p-about {
     margin-bottom: 35px;
 }
 
+/* Contact page */
 
+#h3-contact {
+    padding: 20px 0;
+    text-align: center;
+    color: #A37850;
+}
+
+#contact-form {
+    padding: 20px 10px 0 10px;
+    font-size: 90%;
+    background-color: #D8E1E7;
+    border-radius: 2px;
+    margin: 20px;
+}
+
+.text-input {
+    border-radius: 4px;
+    width: 100%;
+    height: 25px;
+    border: 1px solid #A37850;
+    margin: 5px 0 20px 0;
+    padding: 0 5px;
+}
+
+.radio-button {
+    padding: 0 20px;
+}
+
+.submit-button {
+    background-color: #A37850;
+    border: none;
+    color: #ffffff;
+    padding: 0.6rem 1.2rem;
+    font-size: 0.8rem;
+    text-decoration: none;
+    text-align: center;
+    margin: 1rem 0;
+    border-radius: 2px;
+    cursor: pointer;
+}
 
 /* Footer */
 .footer-items {
