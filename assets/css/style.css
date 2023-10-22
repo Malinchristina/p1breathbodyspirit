@@ -127,6 +127,42 @@ p > a {
     cursor: pointer;
 }
 
+/* About page */
+
+#h2-about {
+    margin-bottom: 1.2rem;
+}
+
+#about-image1 {
+    background: url(../images/lotushands.jpg) no-repeat center/cover;
+    width: auto;
+    height: 65vw;
+    margin: 1.2rem;
+    border-radius: 2px;
+}
+
+#h3-about-breathwork {
+    padding: 10px 20px;
+    font-size: 90%;
+    background-color: #A37850;
+    color: #ffffff;
+    margin: 0 1.2rem;
+    border-radius: 2px;
+    text-align: center;
+}
+
+#h3-tranings {
+    padding: 0 20px;
+    text-align: center;
+    color: #A37850;
+
+}
+
+#last-p-about {
+    margin-bottom: 35px;
+}
+
+
 
 /* Footer */
 .footer-items {
