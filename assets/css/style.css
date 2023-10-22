@@ -174,6 +174,14 @@ td {
     border: 1px solid #262713;
 }
 
+#classes-image {
+    background: url(../images/goddespose.jpg) no-repeat center/cover;
+    width: auto;
+    height: 86vw;
+    margin: 1.2rem;
+    border-radius: 132px;
+}
+
 /* Contact page */
 
 #h3-contact {
