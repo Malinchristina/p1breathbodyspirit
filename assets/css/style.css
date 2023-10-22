@@ -160,6 +160,19 @@ p > a {
 #last-p-about {
     margin-bottom: 35px;
 }
+/* Classes page */
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    margin-top: 1.2rem;
+}
+
+table,
+th,
+td {
+    border: 1px solid #262713;
+}
 
 /* Contact page */
 
