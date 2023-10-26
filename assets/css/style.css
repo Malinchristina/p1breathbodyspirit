@@ -55,7 +55,7 @@ p {
 /* Header */
 header {
     background-color: #818A79;
-    padding: 0.5rem 1rem;
+    padding: 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -115,6 +115,9 @@ main {
     /* Make space so footer is pushed down */
     flex: 1 0 auto;
     margin-top: 50px;
+    /* Enable flex properties for child elements */
+        display: flex;
+        flex-direction: column;
 }
 #hero {
     background: url(../images/lotushands.jpg) no-repeat center/cover;
@@ -139,8 +142,12 @@ main {
     padding-top: 0;
 }
 
-#testh3#hero-text-2 {
+#hero-text-2 {
     font-size: 100%;
+}
+
+#home {
+    margin-top: 2rem;
 }
 p > a {
     color: #A37850;
