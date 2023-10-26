@@ -165,12 +165,12 @@ p > a {
     border: none;
     color: #ffffff;
     padding: 0.6rem 1.2rem;
-    font-size: 0.8rem;
     text-decoration: none;
     text-align: center;
     margin: 1rem;
     border-radius: 2px;
     cursor: pointer;
+    font-size: 90%;
 }
 
 /* About page */
@@ -264,7 +264,7 @@ td {
     border: none;
     color: #ffffff;
     padding: 0.6rem 1.2rem;
-    font-size: 0.8rem;
+    font-size: 90%;
     text-decoration: none;
     text-align: center;
     margin: 1rem 0;
