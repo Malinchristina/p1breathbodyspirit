@@ -168,6 +168,25 @@ p > a {
     text-decoration: none;
 }
 
+.testimonials-color {
+    background-color: #D8E1E7;
+    padding: 5px;
+}
+
+#testimonials >h3 {
+    padding-top: 20px;
+}
+
+#testimonial-1,
+#testimonial-2 {
+    background-color: #ffffff;
+    padding: 20px 0;
+}
+
+.citer {
+    text-align: end;
+    padding: 10px 20px;
+}
 
 /* About page */
 
