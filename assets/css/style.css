@@ -249,11 +249,22 @@ td {
 }
 
 /* Contact page */
-
+/*
 #h3-contact {
     padding: 20px 0;
     text-align: center;
     color: #A37850;
+}*/
+#email-address {
+    padding: 20px 0;
+    margin-left: 20px;
+    color: #A37850;
+}
+
+#email-address>a {
+    color: #000000;
+    text-decoration: none;
+    margin: 4px;
 }
 
 #contact-form {
@@ -277,12 +288,17 @@ td {
     padding: 0 20px;
 }
 
+#submit-button {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .submit-button {
     background-color: #A37850;
     border: none;
     color: #ffffff;
     padding: 0.6rem 1.2rem;
-    font-size: 90%;
+    font-size: 100%;
     text-decoration: none;
     text-align: center;
     margin: 1rem 0;
