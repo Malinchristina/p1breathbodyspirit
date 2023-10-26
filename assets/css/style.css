@@ -213,10 +213,12 @@ p > a {
     border-radius: 50%;
 }
 
-#h3-tranings {
-    padding: 0 20px;
-    text-align: center;
-    color: #A37850;
+#bw-video {
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
 }
 
 #last-p-about {
