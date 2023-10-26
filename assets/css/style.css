@@ -155,22 +155,17 @@ p > a {
     color: #A37850;
     border-bottom: #A37850;
 }
-.read-more-button {
+#read-more {
     display: flex;
     justify-content: flex-end;
+    padding: 20px;
 }
 
-#read-more-button {
-    background-color: #A37850;
-    border: none;
-    color: #ffffff;
-    padding: 0.6rem 1.2rem;
+#read-more >a {
+    color: #A37850;
+    font-size: 110%;
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
-    text-align: center;
-    margin: 1rem;
-    border-radius: 2px;
-    cursor: pointer;
-    font-size: 90%;
 }
 
 /* About page */
