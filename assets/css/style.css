@@ -66,12 +66,9 @@ header {
 }
 header a {
     text-decoration: none;
-    font-family: 'Cinzel', serif;
-    color: #D8E1E7;
-    text-align: center;
     width: 100%;
-    letter-spacing: 1px;
 }
+
 #menu {
     list-style-type: none;
     letter-spacing: 1px;
