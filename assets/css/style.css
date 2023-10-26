@@ -67,6 +67,8 @@ header {
 header a {
     text-decoration: none;
     width: 100%;
+    color: #D8E1E7;
+    font-family: 'Cinzel', serif;
 }
 
 #menu {
