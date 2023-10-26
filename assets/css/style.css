@@ -228,25 +228,70 @@ p > a {
 
 /* Classes page */
 
-table {
-    width: 100%;
-    text-align: center;
-    border-collapse: collapse;
-    margin-top: 1.2rem;
+#table-div {
+    display: flex;
+    justify-content: center;
 }
 
-table,
+table {
+    border-collapse: collapse;
+    background: rgb(216, 225, 231, .3);
+    width: 89%;
+    overflow: hidden;
+    margin-top: 20px;
+    border-radius: 2px;
+}
+
+#small-caption {
+    font-size: small;
+    text-transform: lowercase;
+    padding: 0 0.7rem 0;
+}
+
+caption,
 th,
 td {
-    border: 1px solid #262713;
+    padding: 0.7rem;
+
 }
 
-#classes-image {
-    background: url(../images/goddespose.jpg) no-repeat center/cover;
+caption,
+th {
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+caption {
+    background: #ccdbe6;
+    line-height: 1.6;
+}
+
+th {
+    background: #D8E1E7;
+}
+
+tr:nth-of-type(2n) {
+    background: rgb(216, 225, 231, .5);
+
+}
+
+tr {
+    font-size: 100%;
+}
+
+#book-class {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+#class-image {
+    background: url(../images/groupofpeople.jpg) no-repeat center/cover;
     width: auto;
-    height: 86vw;
+    height: 89vw;
     margin: 1.2rem;
-    border-radius: 2px;
+    border-radius: 50%;
 }
 
 /* Contact page */
