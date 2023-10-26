@@ -294,10 +294,9 @@ td {
     text-align: center;
     background-color: #818A79;
     color: #D8E1E7;
-    font-size: 80%;
+    font-size: 100%;
     width: 100%;
     padding: 15px 0 4px 0;
-    width: 100%;
 }
 
 #footer-p {
@@ -306,7 +305,7 @@ td {
 
 .footer-bar-social {
     margin: 5px;
-    font-size: 120%;
+    font-size: 160%;
 }
 
 .footer-bar-social a {
