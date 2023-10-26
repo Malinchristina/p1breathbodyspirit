@@ -47,6 +47,11 @@ p {
     padding: 0 20px;
     line-height: 1.6;
 }
+
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #818A79;
