@@ -30,7 +30,7 @@ h2 {
     font-family: 'Roboto', sans-serif;
     color: #A37850;
     text-align: center;
-    margin: 0 5px 0 5px;
+    margin: 20px 5px 0 5px;
     font-size: 130%;
     padding-top: 1rem;
     line-height: 1.6;
@@ -112,7 +112,7 @@ nav {
 main {
     /* Make space so footer is pushed down */
     flex: 1 0 auto;
-    margin-top: 102px;
+    margin-top: 50px;
 }
 #hero {
     background: url(../images/lotushands.jpg) no-repeat center/cover;
