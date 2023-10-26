@@ -30,7 +30,7 @@ h2 {
     font-family: 'Roboto', sans-serif;
     color: #A37850;
     text-align: center;
-    margin: 20px 5px 0 5px;
+    margin: 20px 5px 20px 5px;
     font-size: 130%;
     padding-top: 1rem;
     line-height: 1.6;
@@ -190,10 +190,6 @@ p > a {
 }
 
 /* About page */
-
-#h2-about {
-    margin-bottom: 1.2rem;
-}
 
 #h3-about-breathwork {
     padding: 10px 20px;
