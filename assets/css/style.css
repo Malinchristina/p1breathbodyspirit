@@ -194,22 +194,23 @@ p > a {
     margin-bottom: 1.2rem;
 }
 
-#about-image1 {
-    background: url(../images/lotushands.jpg) no-repeat center/cover;
-    width: auto;
-    height: 65vw;
-    margin: 1.2rem;
-    border-radius: 2px;
-}
-
 #h3-about-breathwork {
     padding: 10px 20px;
-    font-size: 90%;
+    font-size: 100%;
     background-color: #A37850;
     color: #ffffff;
     margin: 0 1.2rem;
     border-radius: 2px;
     text-align: center;
+    line-height: 1.6;
+}
+
+#about-image {
+    background: url(../images/eaglearms.jpg) no-repeat center/cover;
+    width: auto;
+    height: 86vw;
+    margin: 1.2rem;
+    border-radius: 50%;
 }
 
 #h3-tranings {
