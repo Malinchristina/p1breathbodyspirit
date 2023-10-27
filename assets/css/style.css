@@ -401,13 +401,14 @@ tr {
     }
 
     #logo {
-        font-size: 260%;
-        line-height: 60px;
-        margin: 0 0.5rem;
+        font-size: 2rem;
+        line-height: 1.6;
+        margin: 0 1rem;
+        text-align: left;
     }
     /* Main */
     main {
-        margin-top: 136px;
+        margin-top: 75px;
     }    
 }
 
