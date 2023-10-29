@@ -502,6 +502,7 @@ tr {
     .table {
         margin: 0 10vw 0 10vw;
     }
+
     /* Contact page */
     #contact,
     #form {
@@ -529,6 +530,11 @@ tr {
         width: 42vw;
         height: 28vw;
         margin: 0.3rem 1.2rem 1.2rem 1.2rem;
+    }
+
+    /* Classes page */
+    #class-image {
+        height: 37vw;
     }
 
     /* Contact page */
