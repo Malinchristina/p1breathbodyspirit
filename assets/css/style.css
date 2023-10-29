@@ -498,6 +498,10 @@ tr {
         margin: 0 10vw 0 10vw;
     }
 
+    /* Classes page */
+    .table {
+        margin: 0 10vw 0 10vw;
+    }
 }
 
 /* Media query: laptops and desktops (992px and up) */
