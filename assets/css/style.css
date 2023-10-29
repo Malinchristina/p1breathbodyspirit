@@ -445,14 +445,17 @@ tr {
         align-self: center;
     }
 
-    #about4 {
+    #image-and-text {
         display: flex;
         flex-direction: row;
         width: 100%;
     }
-
-    #about4-image {
-        width: 60;
+    
+    #about-image {
+        width: 37vw;
+        height: 39vw;
+        border-radius: 2px;
+        margin: 0.3rem 0.3rem 1rem 1rem;
     }
 }
 
