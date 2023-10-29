@@ -511,6 +511,7 @@ tr {
 
 /* Media query: laptops and desktops (992px and up) */
 @media screen and (min-width: 992px) {
+    /* Header */
     #menu a:hover {
         border-bottom: 1px solid #D8E1E7;
     }
@@ -518,4 +519,15 @@ tr {
     header a {
         text-align: left;
     }
+    #logo {
+        font-size: 2.5rem;
+    }
+
+    /* About page */
+    #about-image {
+        width: 42vw;
+        height: 28vw;
+        margin: 0.3rem 1.2rem 1.2rem 1.2rem;
+    }
+
 }
