@@ -419,6 +419,14 @@ tr {
     main {
         margin-top: 75px;
     }    
+
+    /* Home page */
+    #home {
+        margin: 5vw 10vw 0 10vw;
+    }
+    #testimonials {
+        margin: 0 10vw 0 10vw;
+    }
 }
 
 /* Media query: laptops and desktops (992px and up) */
