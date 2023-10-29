@@ -210,6 +210,10 @@ p > a {
     margin: 1.2rem;
     border-radius: 50%;
 }
+iframe {
+    width: 80%;
+    height: auto;
+}
 
 #bw-video {
     overflow: hidden;
@@ -457,6 +461,8 @@ tr {
         border-radius: 2px;
         margin: 0.3rem 0.3rem 1rem 1rem;
     }
+    /* Video */
+
 }
 
 /* Media query: laptops and desktops (992px and up) */
