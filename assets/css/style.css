@@ -502,6 +502,11 @@ tr {
     .table {
         margin: 0 10vw 0 10vw;
     }
+    /* Contact page */
+    #contact,
+    #form {
+        margin: 0 10vw 0 10vw;
+    }
 }
 
 /* Media query: laptops and desktops (992px and up) */
