@@ -231,7 +231,7 @@ iframe {
 
 /* Classes page */
 
-#table-div {
+#table {
     display: flex;
     justify-content: center;
 }
