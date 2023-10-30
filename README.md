@@ -117,7 +117,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 * Stray end tag on contact page. Fixed by deleting it.
 * The frameborder attribute on the iframe element is obsolete. Fixed by deleting it in html.
 * Element caption not allowed as child of element table in this context.
-* Element div not allowed as child of element ul in this context.
+* Element div not allowed as child of element ul in this context. Relates to footer. Fixed.
 
 ### Deployment
 
