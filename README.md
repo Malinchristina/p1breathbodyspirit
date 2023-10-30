@@ -114,7 +114,10 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 ## Validator Testing
 
 * Missing header on second sections on about page. Fixed as hidden.
-* Stray end tag on contact page. Fixed.
+* Stray end tag on contact page. Fixed by deleting it.
+* The frameborder attribute on the iframe element is obsolete. Fixed by deleting it in html.
+* Element caption not allowed as child of element table in this context.
+* Element div not allowed as child of element ul in this context.
 
 ### Deployment
 
