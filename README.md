@@ -12,6 +12,7 @@ The pite can be found at [Breath Body Spirit](https://malinchristina.github.io/p
 
 * The navigation bar is there to help the user easily navigate from one page to another.
 * It is responsive on all screens.
+  
 ![menu.jpg](docs/readme_images/menu.jpg)
 
 
@@ -19,13 +20,23 @@ The pite can be found at [Breath Body Spirit](https://malinchristina.github.io/p
 
 * The footer contains a referense to who made the site and the photographer.
 * There are clickable icons to social media facebook and instagram, where information on events and photos not on the site can be found.
-* ![footer.jpg](docs/readme_images/footer.jpg)
+  
+ ![footer.jpg](docs/readme_images/footer.jpg)
 
-### Classes / Retreats
+ ### Home
+![home.jpg](docs/readme_images/home.jpg)
+![testimonials.jpg](docs/readme_images/testimonials.jpg)
 
 ### About
+![about.jpg](docs/readme_images/about.jpg)
+![video.jpg](docs/readme_images/video.jpg)
+
+### Classes
+![classes.jpg](docs/readme_images/classes.jpg)
+![schedule-jpg](docs/readme_images/schedule.jpg)
 
 ### Contact
+![contact.jpg](docs/readme_images/contact.jpg)
 
 ## Testing
 
