@@ -25,6 +25,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 ![menu.jpg](docs/readme_images/menu.jpg)
 
 ### Home
+
 * The hero image was chosen to create a feeling of calmness. 
 
 ![home.jpg](docs/readme_images/home.jpg)
@@ -35,6 +36,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 ![testimonials.jpg](docs/readme_images/testimonials.jpg)
 
 ### About
+
 * Starts of with a section of teachers story of how she found yoga and breathwork and what it have meant and means to her. To create connection to the user.
 * The photo is to give a soft inclusive picture of yoga
   
@@ -47,6 +49,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 * The last section lists trainings the teacher has taken with links to each site that offer the trainings.
 
 ### Classes
+
 * Yoga and breathwork is about community and the picture was chosen to give that feeling.
   
 ![classes.jpg](docs/readme_images/classes.jpg)
@@ -56,6 +59,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 ![schedule-jpg](docs/readme_images/schedule.jpg)
 
 ### Contact
+
 * A section with text to incourage the user to sign up for newsletter.
 * A section for those who wants to collaborate with a clickable icon that directs to compose an email.
 
@@ -84,8 +88,10 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 ## Validator Testing
 
 ### Deployment
+
 The site was created on Code Anywhere and pushed and deployed to GitHub.
-* In the repository:
+
+* In the repository
   * choose settings.
   * On the left side bar, choose pages.
   * Under Source, select Deply from a branch.
@@ -94,10 +100,9 @@ The site was created on Code Anywhere and pushed and deployed to GitHub.
 * Go back to code in the menu.
 * Find the deployed page on the right side under Deployments.
 
-
 ### Credits
 
-### Coding instructions
+## Coding instructions
 
 * Inspiriation from Love Running project
 * [Kevin Powell youtube channel](https://www.youtube.com/@KevinPowell "Kevin Powell")
