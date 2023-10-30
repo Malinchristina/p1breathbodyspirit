@@ -11,11 +11,15 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 ### Favicon
 
 * Favicon is generated from the site name, Breath Body Spirit. Has the same color as the header and footer and same font as logo.
+  
+![favicon.jpg](docs/readme_images/favicon.jpg)
 
 ### Logo
 
 * The logo is the same name as the site and company, Breath Body Spirit.
 * The logo is clickable on each page and refers back to the home page for the user to easy access the first page.
+  
+![logo.jpg](docs/readme_images/logo.jpg)
 
 ### Navigation bar
 
@@ -26,7 +30,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ### Home
 
-* The hero image was chosen to create a feeling of calmness. 
+* The hero image was chosen to create a feeling of calmness.
 
 ![home.jpg](docs/readme_images/home.jpg)
 
@@ -72,6 +76,28 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
   
  ![footer.jpg](docs/readme_images/footer.jpg)
 
+### Design
+ 
+## Wireframe
+
+* Home page
+
+![home.jpg](docs/balsamiq/home.jpg)
+
+* About
+
+![about1.jpg](docs/balsamiq/about1.jpg)
+
+![about2jpg](docs/balsamiq/about2.jpg)
+
+* Classes
+
+![classes.jpg](docs/balsamiq/classes.jpg)
+
+* Contact
+
+![classes.jpg](docs/balsamiq/contact.jpg)
+
 ### Testing
 
 * All external links open in a new window and point correct.
@@ -94,18 +120,27 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 The site was created on Code Anywhere and pushed and deployed to GitHub.
 
-* In the repository
-  * choose settings.
-  * On the left side bar, choose pages.
-  * Under Source, select Deply from a branch.
-  * Under branch, the selection was chosen an shown in the image.
-  * Save.
+In the repository:
+* choose settings
+
+![settings.jpg](docs/readme_images/settings.jpg)
+
+* On the left side bar, choose pages.
+
+![pages.jpg](docs/readme_images/pages.jpg)
+* Under Source, select Deploy from a branch.
+* Under branch, the selection was chosen an shown in the image.
+
+![buildanddeply.jpg](docs/readme_images/buildanddeply.jpg)
+* Save.
 * Go back to code in the menu.
 * Find the deployed page on the right side under Deployments.
 
-### Credits
+![deploy.jpg](docs/readme_images/deploy.jpg)
 
-## Coding instructions
+## Credits
+
+### Coding instructions
 
 * Inspiriation from Love Running project
 * [Kevin Powell youtube channel](https://www.youtube.com/@KevinPowell "Kevin Powell")
