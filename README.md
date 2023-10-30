@@ -87,6 +87,9 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ## Validator Testing
 
+* Missing header on second sections on about page. Fixed as hidden.
+* Stray end tag on contact page. Fixed.
+
 ### Deployment
 
 The site was created on Code Anywhere and pushed and deployed to GitHub.
