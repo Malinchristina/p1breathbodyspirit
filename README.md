@@ -2,9 +2,9 @@
 
 Breath Body Spirit is a website for people that want to attend yoga and/or breathwork classes in Gothenburg, Sweden. It targets those who are interested in yoga and wellness but also in personal development.
 
-They users will find information about the yoga and breathwork teacher, testimonials, schedule and how to book a class.
+The users will find information about the yoga and breathwork teacher, testimonials, schedule and how to book a class.
 
-The pite can be found at [Breath Body Spirit](https://malinchristina.github.io/p1breathbodyspirit/index.html "Breath Body Spirit")
+The live site can be found at [Breath Body Spirit](https://malinchristina.github.io/p1breathbodyspirit/index.html "Breath Body Spirit")
 
 ## Features
 
@@ -15,6 +15,40 @@ The pite can be found at [Breath Body Spirit](https://malinchristina.github.io/p
   
 ![menu.jpg](docs/readme_images/menu.jpg)
 
+### Home
+* The hero image was chosen to create a feeling of calmness. 
+
+![home.jpg](docs/readme_images/home.jpg)
+
+* There is a short presenstation of what the site is about, with a link for those who emediately want to book a class or read even more about content.
+* A section below of testimonials to ensure the user that this is a trustworthy person.
+  
+![testimonials.jpg](docs/readme_images/testimonials.jpg)
+
+### About
+* Starts of with a section of teachers story of how she found yoga and breathwork and what it have meant and means to her. To create connection to the user.
+* The photo is to give a soft inclusive picture of yoga
+  
+![about.jpg](docs/readme_images/about.jpg)
+
+* A video is added to talk about breathwork. It can be seen directly on the site or be opened in youtube.
+* 
+![video.jpg](docs/readme_images/video.jpg)
+
+* The last section lists trainings the teacher has taken with links to each site that offer the trainings.
+
+### Classes
+* Yoga and breathwork is about community and the picture was chosen to give that feeling.
+![classes.jpg](docs/readme_images/classes.jpg)
+
+* The weekly schedule shows the time and date for the classes and there is a link that directs to the site where the user can book and pay.
+![schedule-jpg](docs/readme_images/schedule.jpg)
+
+### Contact
+* A section with text to incourage the user to sign up for newsletter.
+* A section for those who wants to collaborate with a clickable icon that directs to compose an email.
+* 
+![contact.jpg](docs/readme_images/contact.jpg)
 
 ### Footer
 
@@ -22,21 +56,6 @@ The pite can be found at [Breath Body Spirit](https://malinchristina.github.io/p
 * There are clickable icons to social media facebook and instagram, where information on events and photos not on the site can be found.
   
  ![footer.jpg](docs/readme_images/footer.jpg)
-
- ### Home
-![home.jpg](docs/readme_images/home.jpg)
-![testimonials.jpg](docs/readme_images/testimonials.jpg)
-
-### About
-![about.jpg](docs/readme_images/about.jpg)
-![video.jpg](docs/readme_images/video.jpg)
-
-### Classes
-![classes.jpg](docs/readme_images/classes.jpg)
-![schedule-jpg](docs/readme_images/schedule.jpg)
-
-### Contact
-![contact.jpg](docs/readme_images/contact.jpg)
 
 ## Testing
 
