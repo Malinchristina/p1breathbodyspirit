@@ -8,6 +8,15 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ## Features
 
+### Favicon
+
+* Favicon is generated from the site name, Breath Body Spirit. Has the same color as the header and footer and same font as logo.
+
+### Logo
+
+* The logo is the same name as the site and company, Breath Body Spirit.
+* The logo is clickable on each page and refers back to the home page for the user to easy access the first page.
+
 ### Navigation bar
 
 * The navigation bar is there to help the user easily navigate from one page to another.
@@ -32,22 +41,24 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 ![about.jpg](docs/readme_images/about.jpg)
 
 * A video is added to talk about breathwork. It can be seen directly on the site or be opened in youtube.
-* 
+
 ![video.jpg](docs/readme_images/video.jpg)
 
 * The last section lists trainings the teacher has taken with links to each site that offer the trainings.
 
 ### Classes
 * Yoga and breathwork is about community and the picture was chosen to give that feeling.
+  
 ![classes.jpg](docs/readme_images/classes.jpg)
 
 * The weekly schedule shows the time and date for the classes and there is a link that directs to the site where the user can book and pay.
+  
 ![schedule-jpg](docs/readme_images/schedule.jpg)
 
 ### Contact
 * A section with text to incourage the user to sign up for newsletter.
 * A section for those who wants to collaborate with a clickable icon that directs to compose an email.
-* 
+
 ![contact.jpg](docs/readme_images/contact.jpg)
 
 ### Footer
@@ -57,7 +68,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
   
  ![footer.jpg](docs/readme_images/footer.jpg)
 
-## Testing
+### Testing
 
 * All external links open in a new window and point correct.
 * All internal links point correct.
@@ -70,11 +81,21 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 * The website is fully responsive.
 * The form works as intended. The user can not join without name, email address or ticking an agree button.
 
-### Validator Testing
+## Validator Testing
 
-## Deployment
+### Deployment
+The site was created on Code Anywhere and pushed and deployed to GitHub.
+* In the repository:
+  * choose settings.
+  * On the left side bar, choose pages.
+  * Under Source, select Deply from a branch.
+  * Under branch, the selection was chosen an shown in the image.
+  * Save.
+* Go back to code in the menu.
+* Find the deployed page on the right side under Deployments.
 
-## Credits
+
+### Credits
 
 ### Coding instructions
 
