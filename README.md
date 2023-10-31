@@ -6,6 +6,8 @@ The users will find information about the yoga and breathwork teacher, testimoni
 
 The live site can be found at [Breath Body Spirit](https://malinchristina.github.io/p1breathbodyspirit/index.html "Breath Body Spirit")
 
+![mockup.jpg](docs/testing/mockup.jpg)
+
 ## Features
 
 ### Favicon
@@ -113,11 +115,20 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ## Validator Testing
 
+Testing of html was been done in [Validator W3](https://validator.w3.org/ "Validator w3")
+Testing CSS was done in [Validator w3 CSS](https://jigsaw.w3.org/css-validator/ "Validator w3")
+
 * Missing header on second sections on about page. Fixed as hidden.
 * Stray end tag on contact page. Fixed by deleting it.
 * The frameborder attribute on the iframe element is obsolete. Fixed by deleting it in html.
 * Element caption not allowed as child of element table in this context. Fixed by deleting one caption and adding text as h3 and p and style it.
 * Element div not allowed as child of element ul in this context. Relates to footer. Fixed.
+
+### Unfixed bugs
+
+Imported fonts from google does not load in parallel.
+
+![error_font.jpg](docs/testing/error_font.jpg)
 
 ### Deployment
 
