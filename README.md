@@ -100,7 +100,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ![classes.jpg](docs/balsamiq/contact.jpg)
 
-### Testing
+## Testing
 
 * All external links open in a new window and point correct.
 * All internal links point correct.
@@ -113,7 +113,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 * The website is fully responsive.
 * The form works as intended. The user can not join without name, email address or ticking an agree button.
 
-## Validator Testing
+### Validator Testing
 
 Testing of html was been done in [Validator W3](https://validator.w3.org/ "Validator w3")
 Testing CSS was done in [Validator w3 CSS](https://jigsaw.w3.org/css-validator/ "Validator w3")
