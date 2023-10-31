@@ -116,7 +116,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 * Missing header on second sections on about page. Fixed as hidden.
 * Stray end tag on contact page. Fixed by deleting it.
 * The frameborder attribute on the iframe element is obsolete. Fixed by deleting it in html.
-* Element caption not allowed as child of element table in this context.
+* Element caption not allowed as child of element table in this context. Fixed by deleting one caption and adding text as h3 and p and style it.
 * Element div not allowed as child of element ul in this context. Relates to footer. Fixed.
 
 ### Deployment
