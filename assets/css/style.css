@@ -122,7 +122,7 @@ main {
         flex-direction: column;
 }
 #hero {
-    background: url(../images/lotushands.jpg) no-repeat center/cover;
+    background: url(../images/lotushands.webp) no-repeat center/cover;
     position: relative;
     height: 600px;
     width: 100%;
@@ -204,7 +204,7 @@ p > a {
 }
 
 #about-image {
-    background: url(../images/eaglearms.jpg) no-repeat center/cover;
+    background: url(../images/eaglearms.webp) no-repeat center/cover;
     width: auto;
     height: 86vw;
     margin: 1.2rem;
@@ -232,7 +232,7 @@ iframe {
 /* Classes page */
 
 #class-image {
-    background: url(../images/groupofpeople.jpg) no-repeat center/cover;
+    background: url(../images/groupofpeople.webp) no-repeat center/cover;
     width: auto;
     height: 45vw;
     margin: 1.2rem;
