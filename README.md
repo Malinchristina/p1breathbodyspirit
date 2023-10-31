@@ -77,7 +77,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
  ![footer.jpg](docs/readme_images/footer.jpg)
 
 ### Design
- 
+
 ## Wireframe
 
 * Home page
@@ -124,17 +124,20 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 The site was created on Code Anywhere and pushed and deployed to GitHub.
 
 In the repository:
-* choose settings
+
+* Choose settings
 
 ![settings.jpg](docs/readme_images/settings.jpg)
 
 * On the left side bar, choose pages.
 
 ![pages.jpg](docs/readme_images/pages.jpg)
+
 * Under Source, select Deploy from a branch.
 * Under branch, the selection was chosen an shown in the image.
 
 ![buildanddeply.jpg](docs/readme_images/buildanddeply.jpg)
+
 * Save.
 * Go back to code in the menu.
 * Find the deployed page on the right side under Deployments.
