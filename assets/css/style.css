@@ -263,20 +263,23 @@ caption,
 th,
 td {
     padding: 0.7rem;
-
 }
 
 caption,
 th {
     text-align: left;
     font-weight: 700;
-    text-transform: uppercase;
 }
 
 caption {
     background: #ccdbe6;
     line-height: 1.6;
 }
+
+#classes-h3 {
+    text-align: left;
+    text-transform: uppercase;
+    color: #000000;
 
 th {
     background: #D8E1E7;
