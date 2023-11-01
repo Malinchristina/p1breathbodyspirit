@@ -326,7 +326,7 @@ tr {
 #email-address {
     padding: 20px 0;
     margin-left: 20px;
-    color: #A37850;
+    color: #744F39;
 }
 
 #email-address>a {
@@ -375,7 +375,7 @@ tr {
 }
 /* Sign up landing page and 404 */
 .return-to-home {
-    color: #A37850;
+    color: #744F39;
     text-transform: uppercase;
 }
 
