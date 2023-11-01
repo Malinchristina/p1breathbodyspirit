@@ -36,7 +36,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ![home.jpg](docs/readme_images/home.jpg)
 
-* There is a short presenstation of what the site is about, with a link for those who emediately want to book a class or read even more about content.
+* There is a short presentation of what the site is about, with a link for those who immediately want to book a class or read even more 'about' content.
 * A section below of testimonials to ensure the user that this is a trustworthy person.
   
 ![testimonials.jpg](docs/readme_images/testimonials.jpg)
@@ -66,7 +66,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ### Contact
 
-* A section with text to incourage the user to sign up for newsletter.
+* A section with text to encourage the user to sign up for newsletter.
 * A section for those who wants to collaborate with a clickable icon that directs to compose an email.
 
 ![contact.jpg](docs/readme_images/contact.jpg)
