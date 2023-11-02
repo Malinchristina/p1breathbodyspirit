@@ -131,6 +131,15 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ![css_testing](docs/testing/css_testing.png)
 
+Testing was also done in [WAVE](https://wave.webaim.org/ "wave")
+
+* [index.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/index.html "wave index")
+  * Comment about the link 'Read more' as a suspicious. The link is valid and easily understood in the context.
+* [about.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/about.html "wave about")
+* [classes.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/classes.html "wave classes") 
+* [contact.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/contact.html "wave contact")
+* [signuplandingpage.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/signuplandingpage.html "wave signuplandingpage")
+
 ### Unfixed bugs
 
 Imported fonts from google does not load in parallel.
