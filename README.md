@@ -142,6 +142,12 @@ Testing was also done in [WAVE](https://wave.webaim.org/ "wave")
 * [contact.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/contact.html "wave contact")
 * [signuplandingpage.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/signuplandingpage.html "wave signuplandingpage")
 
+### Lighthouse testing
+
+Mobile
+
+*
+
 ### Unfixed bugs
 
 Imported fonts from google does not load in parallel.
