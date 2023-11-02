@@ -138,7 +138,7 @@ Testing was also done in [WAVE](https://wave.webaim.org/ "wave")
 * [index.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/index.html "wave index")
   * Comment about the link 'Read more' as suspicious. The link is valid and easily understood in the context.
 * [about.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/about.html "wave about")
-* [classes.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/classes.html "wave classes") 
+* [classes.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/classes.html "wave classes")
 * [contact.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/contact.html "wave contact")
 * [signuplandingpage.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/signuplandingpage.html "wave signuplandingpage")
 
@@ -146,7 +146,47 @@ Testing was also done in [WAVE](https://wave.webaim.org/ "wave")
 
 Mobile
 
-*
+* Index
+
+[index_mobile.png](docs/testing/index_mobile.png)
+
+* About
+
+[about_mobile.png](docs/testing/about_mobile.png)
+
+* Classes
+
+[classes_mobile.png](docs/testing/contact_mobile.png)
+
+* Contact
+
+[contact_mobile.png](docs/testing/contact_mobile.png)
+
+* Signuplandingpage
+
+[signuplandingpage_mobile.png](docs/testing/signuplandingpage_mobile.png)
+
+Desktop
+
+* Index
+
+[index_desktop.png](docs/testing/index_desktop.png)
+
+* About
+
+[about_desktop.png](docs/testing/about_desktop.png)
+
+* Classes
+
+[classes_desktop.png](docs/testing/classes_desktop.png)
+
+* Contact
+
+[contact_desktop.png](docs/testing/contact_desktop.png)
+
+* Signuplandingpage
+
+[signuplandingpage_desktop.png](docs/testing/signuplandingpage_desktop.png)
 
 ### Unfixed bugs
 
