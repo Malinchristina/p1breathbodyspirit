@@ -115,6 +115,8 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ### Validator Testing
 
+Testing of html was done in [Validator w3](https://validator.w3.org/ "Validator w3")
+
 * Missing header on second sections on about page. Fixed as hidden.
 * Stray end tag on contact page. Fixed by deleting it.
 * The frameborder attribute on the iframe element is obsolete. Fixed by deleting it in html.
@@ -134,7 +136,7 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 Testing was also done in [WAVE](https://wave.webaim.org/ "wave")
 
 * [index.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/index.html "wave index")
-  * Comment about the link 'Read more' as a suspicious. The link is valid and easily understood in the context.
+  * Comment about the link 'Read more' as suspicious. The link is valid and easily understood in the context.
 * [about.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/about.html "wave about")
 * [classes.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/classes.html "wave classes") 
 * [contact.html](https://wave.webaim.org/report#/https://malinchristina.github.io/p1breathbodyspirit/contact.html "wave contact")
