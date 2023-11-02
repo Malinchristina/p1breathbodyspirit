@@ -124,12 +124,12 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 * [index.hmtl](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmalinchristina.github.io%2Fp1breathbodyspirit%2Findex.html "Validator w3 index")
 * [about.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmalinchristina.github.io%2Fp1breathbodyspirit%2Fabout.html "Validator w3 about")
 * [classes.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmalinchristina.github.io%2Fp1breathbodyspirit%2Fclasses.html "Validator w3 classes")
-* [contact.html] (https://validator.w3.org/nu/?doc=https%3A%2F%2Fmalinchristina.github.io%2Fp1breathbodyspirit%2Fcontact.html "Validator w3 contact")
+* [contact.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmalinchristina.github.io%2Fp1breathbodyspirit%2Fcontact.html "Validator w3 contact")
 * [signuplandingpage.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmalinchristina.github.io%2Fp1breathbodyspirit%2Fsignuplandingpage.html "Validator w3 signuplandingpage")
 
 * Testing CSS was done in [Validator w3 CSS](https://jigsaw.w3.org/css-validator/ "Validator w3")
 
-
+![css_testing](docs/testing/css_testing.png)
 
 ### Unfixed bugs
 
