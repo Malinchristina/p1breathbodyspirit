@@ -71,12 +71,26 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 ![contact.png](docs/readme_images/contact.png)
 
+### Landing page for contact form
+
+* A page that says thank you for signing up.
+* A link that takes the user back to the home page.
+* The page redirects to home page after 10 sec if the link is not clicked.
+
+![signuplandingpage.png](docs/readme_images/signuplanginpage.png)
+
 ### Footer
 
 * The footer contains a referense to who made the site and the photographer.
 * There are clickable icons to social media facebook and instagram, where information on events and photos not on the site can be found.
   
  ![footer.png](docs/readme_images/footer.png)
+
+### 404 page
+
+* A 404 page is displayed if the user navigates to a broken link.
+
+![404_page.png](docs/readme_images/404_page.png)
 
 ### Design
 
@@ -148,45 +162,45 @@ Mobile
 
 * Index
 
-[index_mobile.png](docs/testing/index_mobile.png)
+![index_mobile.png](docs/testing/index_mobile.png)
 
 * About
 
-[about_mobile.png](docs/testing/about_mobile.png)
+![about_mobile.png](docs/testing/about_mobile.png)
 
 * Classes
 
-[classes_mobile.png](docs/testing/contact_mobile.png)
+![classes_mobile.png](docs/testing/contact_mobile.png)
 
 * Contact
 
-[contact_mobile.png](docs/testing/contact_mobile.png)
+![contact_mobile.png](docs/testing/contact_mobile.png)
 
 * Signuplandingpage
 
-[signuplandingpage_mobile.png](docs/testing/signuplandingpage_mobile.png)
+![signuplandingpage_mobile.png](docs/testing/signuplandingpage_mobile.png)
 
 Desktop
 
 * Index
 
-[index_desktop.png](docs/testing/index_desktop.png)
+![index_desktop.png](docs/testing/index_desktop.png)
 
 * About
 
-[about_desktop.png](docs/testing/about_desktop.png)
+![about_desktop.png](docs/testing/about_desktop.png)
 
 * Classes
 
-[classes_desktop.png](docs/testing/classes_desktop.png)
+![classes_desktop.png](docs/testing/classes_desktop.png)
 
 * Contact
 
-[contact_desktop.png](docs/testing/contact_desktop.png)
+![contact_desktop.png](docs/testing/contact_desktop.png)
 
 * Signuplandingpage
 
-[signuplandingpage_desktop.png](docs/testing/signuplandingpage_desktop.png)
+![signuplandingpage_desktop.png](docs/testing/signuplandingpage_desktop.png)
 
 ### Unfixed bugs
 
