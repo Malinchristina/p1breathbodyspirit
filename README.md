@@ -6,7 +6,7 @@ The users will find information about the yoga and breathwork teacher, testimoni
 
 The live site can be found at [Breath Body Spirit](https://malinchristina.github.io/p1breathbodyspirit/index.html "Breath Body Spirit")
 
-![mockup.jpg](docs/testing/mockup.jpg)
+![mockup.png](docs/testing/mockup.png)
 
 ## Features
 
@@ -21,36 +21,36 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 * The logo is the same name as the site and company, Breath Body Spirit.
 * The logo is clickable on each page and refers back to the home page for the user to easy access the first page.
   
-![logo.jpg](docs/readme_images/logo.jpg)
+![logo.png](docs/readme_images/logo.png)
 
 ### Navigation bar
 
 * The navigation bar is there to help the user easily navigate from one page to another.
 * It is responsive on all screens.
   
-![menu.jpg](docs/readme_images/menu.jpg)
+![menu.png](docs/readme_images/menu.png)
 
 ### Home
 
 * The hero image was chosen to create a feeling of calmness.
 
-![home.jpg](docs/readme_images/home.jpg)
+![hero.png](docs/readme_images/hero.png)
 
 * There is a short presentation of what the site is about, with a link for those who immediately want to book a class or read even more 'about' content.
 * A section below of testimonials to ensure the user that this is a trustworthy person.
   
-![testimonials.jpg](docs/readme_images/testimonials.jpg)
+![testimonials.png](docs/readme_images/testimonials.png)
 
 ### About
 
 * Starts of with a section of teachers story of how she found yoga and breathwork and what it have meant and means to her. To create connection to the user.
 * The photo is to give a soft inclusive picture of yoga
   
-![about.jpg](docs/readme_images/about.jpg)
+![about.png](docs/readme_images/about.png)
 
 * A video is added to talk about breathwork. It can be seen directly on the site or be opened in youtube.
 
-![video.jpg](docs/readme_images/video.jpg)
+![video.png](docs/readme_images/video.png)
 
 * The last section lists trainings the teacher has taken with links to each site that offer the trainings.
 
@@ -58,25 +58,25 @@ The live site can be found at [Breath Body Spirit](https://malinchristina.github
 
 * Yoga and breathwork is about community and the picture was chosen to give that feeling.
   
-![classes.jpg](docs/readme_images/classes.jpg)
+![classes_image.png](docs/readme_images/classes_image.png)
 
 * The weekly schedule shows the time and date for the classes and there is a link that directs to the site where the user can book and pay.
   
-![schedule-jpg](docs/readme_images/schedule.jpg)
+![schedule.png](docs/readme_images/schedule.png)
 
 ### Contact
 
 * A section with text to encourage the user to sign up for newsletter.
 * A section for those who wants to collaborate with a clickable icon that directs to compose an email.
 
-![contact.jpg](docs/readme_images/contact.jpg)
+![contact.png](docs/readme_images/contact.png)
 
 ### Footer
 
 * The footer contains a referense to who made the site and the photographer.
 * There are clickable icons to social media facebook and instagram, where information on events and photos not on the site can be found.
   
- ![footer.jpg](docs/readme_images/footer.jpg)
+ ![footer.png](docs/readme_images/footer.png)
 
 ### Design
 
